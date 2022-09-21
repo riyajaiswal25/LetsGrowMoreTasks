@@ -1,2 +1,2 @@
-# Iris-ML
-This is a simple Machine Learning code made using streamlit
+# LetsGrowMoreTasks
+This is a repository which contains all the tasks that I completed during my internship tenure as Data Science intern in LetsGrowMore.
